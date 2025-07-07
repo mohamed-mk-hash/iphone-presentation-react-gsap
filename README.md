@@ -1,8 +1,1 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+A modern and immersive product presentation website for showcasing the iPhone, built using React and GSAP (GreenSock) for smooth animations and interactions. The site includes scroll-triggered transitions, animated device mockups, detailed product sections (features, design, camera, performance), and a responsive layout optimized for all screen sizes. This project demonstrates advanced front-end capabilities with a focus on UI/UX quality, animation performance, and engaging product storytelling — ideal for high-end product demos and landing pages.
